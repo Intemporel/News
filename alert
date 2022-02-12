@@ -1,10 +1,16 @@
 SERVERALERT:
 <html>
   <body>
+    <p>Lorem ipsum etc...</p>
+  </body>
+</html>
+NEWS:
+<html>
+  <body>
     <h1 align='center'>Ceci est un titre H1</h1>
     <h2 align='left'>Ceci est un titre H2</h2>
     <p>Mon tout premier paragraphe, je peut contenir des caractères non ASCII comme : éèçàêâäëïîì , etc... Sans soucis ! On peut remercier la police d'écriture qu'utilise Blizzard !</p>
     <br/>
     <p> • |TInterface/Icons/Ability_Mount_Pegasus:32|t Aujourd'hui on vous offre un cheval !</p>
   </body>
-</html> 
+</html>
